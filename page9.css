@@ -1,0 +1,29 @@
+.emphasis {
+    
+    position:absolute;
+    left:600px
+}
+
+body {
+    
+    margin-left: 300px;
+        padding: 30px;
+height: 3000px;
+    
+}
+
+#value {
+    
+    position: fixed;
+    left: 590px;
+    top: 490px;    
+    padding: 20px;
+    border: 1px solid black;
+}
+
+a{
+    text-decoration: none;
+
+    color: black;
+   
+}

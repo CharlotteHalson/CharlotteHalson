@@ -1,0 +1,32 @@
+body{
+width: 1780px;
+    font-family:helvetica;
+    font-size:15pt;
+        
+}
+
+#value {
+    
+
+    text-transform: uppercase;
+    font-size: 50pt;
+    font-weight: bold;
+    border: 1px solid black;
+    padding: 10px;
+    padding-top: 15px;
+}
+
+#deeper {
+    
+    position: absolute;
+    top: 130px;
+    left:780px;
+    font-size: 30pt;
+    font-family: impact;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}

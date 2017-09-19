@@ -1,0 +1,28 @@
+#godeep {
+   text-align: center;
+    font-size: 25pt;
+    text-transform: uppercase;
+    line-height: 100px;
+    font-family: franklin gothic;
+    font-weight: bold;
+}
+
+body {
+    height: 2000px;
+}
+
+#one { 
+position: fixed;
+    left:400px;
+    top: 80px;
+    font-family:helvetica;
+    letter-spacing: 5px;
+
+}
+
+a{
+    text-decoration: none;
+    border: solid 1px black;
+    color: black;
+    padding: 5px;
+}
